@@ -19,14 +19,14 @@ further development of the Deliverable (“Contribution”), u-blox will have th
 same rights as granted to you, namely to use, copy, modify and distribute the
 Contribution provided to us for any purpose without fee.
 
-# Rigado Module Programmers
-Programming for Rigado Modules
+# u-blox BMD Module Programmers
+Programming for u-blox BMD Modules
 
-This repository contains various programming tools for Rigado modules.
+This repository contains various programming tools for u-blox BMD modules.
 
 ####Programmers:
 
-* Factory Image Programmers - Return Rigado modules to their factory state.
+* Factory Image Programmers - Return u-blox BMD modules to their factory state.
 * BMD-300 Erase & Recovery - Full erase of the BMD-300 and re-enables the debug interface.
 
 *A Segger JLink programmer is required to use these utilities.*
